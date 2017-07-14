@@ -1,0 +1,346 @@
+@charset "utf-8";
+/*-------------header---------------*/
+body{
+    background: #fdf8f4 url(../images/login_03.jpg) no-repeat center top;
+}
+
+.header{
+	background: #323131;
+	width: 100%;
+}
+.headerUnwarp{
+	width: 1176px;
+	margin:0 auto;
+    padding:0 12px;
+    height: 70px;
+}
+.headerUnwarp .logo{
+    float: left;
+	width: 30px;
+	height: 62px;
+}
+.headerUnwarp .headerRight{
+	float: right;
+}
+.headerUnwarp .headerRight a{
+	padding:0 11px;
+	line-height: 70px;
+	color: #999;
+}
+.headerUnwarp .headerRight a:hover{
+	color:#c69c6d;
+}
+
+
+/*`````````````container`````````````*/
+.container{
+	height: 780px;
+	width: 1176px;
+	padding: 0 12px;
+	margin: 0 auto;
+}
+.container .verify{
+	width: 310px;
+    padding: 30px 35px;
+    float: right;
+    background-color: #fff;
+    margin-top: 80px;
+    height: 420px;
+    box-shadow: 0 0 23px rgba(0,0,0,.1);
+}
+
+/* ``````````表单验证`````````````` */
+.container .verify .heaT{
+	height: 50px;
+	width: 310px;
+	color: #f19108;
+	text-align: center;
+	line-height: 50px;
+	font-size: 20px;
+}
+.container .verify .error{
+	display: none;
+    height: auto;
+    border: 1px solid #ffac76;
+    background: #ffffcf url(../images/error_tips.png) no-repeat left center;
+    padding-left: 30px;
+    margin-bottom: 12px;
+    line-height: 25px;
+    color: #ff0200;
+}
+.container .verify .y1{
+	margin-top: 15px;
+	width: 306px;
+	height: 36px;
+	display: block;
+	border: 1px solid #ededed;
+  	outline-color:red;
+	padding:0 5px;
+	color: #999;
+}
+
+.container .verify input:focus{
+	border: 1px solid #9d003f;
+	box-shadow: 0px  0px 2px 2px #fce8d2;
+}
+.container .verify .fix3 .b1{
+	width: 310px;
+	height: 20px;
+	margin:8px 0;
+
+}
+.container .verify .fix3 h2{
+	float: left;
+}
+.container .verify .fix3 .b1>div{
+	display: none;
+	float: right;
+	color: red;
+	line-height: 20px;
+	font-weight: 600;
+}
+.container .verify .yan{
+	position: relative;
+	width: 300px;
+	height: 40px;
+	float: left;
+	margin-bottom: 8px;
+	line-height: 36px;
+}
+.container .verify .yan .code{
+	font-size: 16px;
+	font-weight: 600;
+	border: 1px solid #ccc;
+	margin-left: 120px;
+	margin-right: 12px;
+	width: 52px;
+	height: 22px;
+	line-height: 22px;
+	text-align: center;
+	vertical-align: middle;
+	display: inline-block;
+}
+.container .verify .yan .y2{
+	border: 1px solid #ededed;
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100px;
+	height: 36px;
+	float: left;
+	margin-right: 12px;
+}
+.container .verify .yan a{
+	color: #666;
+}
+.container .verify .yan a:hover{
+	color: black;
+}
+
+.container .verify .fix4{
+	margin: 12px 0;
+	color: #666;
+}
+
+.container .verify #btnn{
+	width: 310px;
+	height: 42px;
+	background: #f19108;
+	color: white;
+	text-align: center;
+	line-height: 42px;
+	border: 0;
+	font-weight: 600;
+	cursor: pointer;
+	font-size:15px;
+}
+.container .verify #btn:focus{
+	box-shadow: 0px  0px 1px 1px #91bafe;
+}
+
+.container .verify .hez p{
+    color: #999;
+    padding: 5px 0;
+    height: 20px;
+}
+.container .verify .hez p:nth-child(2) img{
+    cursor: pointer;
+    float: left;
+    margin-right: 10px;
+    line-height: 20px;
+    display: inline-block;
+    width: 15px;
+    height: 15px;
+}
+.container .verify .fix5{
+	margin: 25px 0;
+	color: #999;
+}
+.container .verify .fix5 a{
+	color: #f19108;
+}
+.container .verify .fix5 span{
+	color: #666;
+	float: right;
+	cursor: pointer;
+}
+
+
+
+
+
+/*`````````````footer``````````````````*/
+.footer{
+	width: 100%;
+	background: white;
+}
+.footer .footerUnwarp{
+	width: 1188px;
+	margin: 0 auto;
+	height: 152px;
+	padding: 28px 0 0 12px;
+}
+.footer .footerUnwarp .app{
+	float: right;
+}
+.footer .footerUnwarp .box{
+	width: 696px;
+	overflow: hidden;
+	float: left;
+}
+.footer .footerUnwarp .smalBox{
+	width: 1000px;
+}
+
+.footer .footerUnwarp h2{
+	font-weight: 900;
+	color: black;
+	margin-bottom: 9px;
+}
+.footer .footerUnwarp ul a{
+	color:#999;
+	height: 20px;
+	line-height: 20px;
+}
+.footer .footerUnwarp ul li a:hover{
+	color:#463b7f;
+}
+.footer .footerUnwarp ul li{
+	float: left;
+	margin-right: 90px;
+}
+
+.footer .footerUnwarp .region{
+	float: left;
+	width: 340px;
+}
+.footer .footerUnwarp  h3{
+	margin-bottom: 9px;
+}
+.footer .footerUnwarp .region a{
+	line-height:20px;
+	color: #999; 
+	padding-right: 60px;
+}
+.footer .footerUnwarp .region a:hover{
+	color:#463b7f;
+}
+
+
+.footer .footerNav1{
+	width: 100%;
+	background: #463b7f;
+	height: 40px;
+}
+.footer .footerNav{
+	width: 1200px;
+	margin: 0 auto;
+}
+
+.footer .footerNav1 li{
+	text-align: center;
+	float: left;
+	height: 40px;
+	line-height: 40px;
+	font-size: 16px;
+	color: white;
+	margin-left: 100px;
+}
+
+.footer .footerNav1 span{
+	margin-right: 2px;
+	height: 23px;
+	display: inline-block;
+	vertical-align: middle;
+	background: url(../images/p_04.png) no-repeat;
+}
+.footer .footerNav1 li:nth-child(1) span{
+	width: 22px;
+    background-position: 0 0;
+}
+.footer .footerNav1 li:nth-child(2) span{
+	width: 16px;
+    background-position: -29px 0;
+}
+.footer .footerNav1 li:nth-child(3) span{
+    width: 26px;
+    background-position: -49px 0;	
+}
+.footer .footerNav1 li:nth-child(4) span{
+    width: 18px;
+    background-position: -83px 0;
+}
+.footer .footerNav1 li:nth-child(5) span{
+    width: 27px;
+    background-position: -104px 0;
+}
+
+
+
+
+.footer .footerAboat1{
+	overflow:hidden;
+	width: 100%;
+	background: #f5f5f5;
+}
+.footer .footerAboat{
+	padding-top:20px; 
+	overflow: hidden;
+	height: 200px;
+	width: 1200px;
+	margin: 0 auto;
+}
+.footer .footerAboat>div{
+	margin: 0 auto;
+	text-align: center;
+	height: 32px;
+}
+.footer .footerAboat>div p{
+	line-height: 32px;
+    padding-bottom: 14px;
+    text-align: center;
+    display: inline-block;
+}
+.footer .footerAboat>div p span{
+    color: #999;
+    margin-right: 10px;
+}
+.footer .footerAboat>div:nth-child(5){
+	margin-left:130px;
+}
+.footer .footerAboat>div:nth-child(5) img{
+    width: 108px;
+    height: 40px;
+	margin-top:10px;
+	margin-right: 10px;
+	float: left;
+}
+.footer .footerAboat>div a{
+	height: 30px;
+	margin-top: 15px;
+    color: #000;
+    margin-right: 30px;
+}
+.footer .footerAboat>div a:hover{
+    color: #463b7f;
+}

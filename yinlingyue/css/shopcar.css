@@ -1,0 +1,269 @@
+@charset "utf-8";
+/*-------------header---------------*/
+
+.header{
+	background: #323131;
+	width: 100%;
+}
+.headerUnwarp{
+	width: 990px;
+	margin:0 auto;
+    height: 70px;
+}
+.headerUnwarp .logo{
+    float: left;
+	width: 30px;
+	height: 62px;
+}
+.headerUnwarp .headerRight{
+	float: right;
+}
+
+
+
+/*`````````````container`````````````*/
+.container{
+	background: #f6f6f6;
+	width: 100%;
+}
+.conWarp{
+	width: 990px;
+	margin:0 auto;
+    height: 500px;
+    margin: 0 auto;
+    padding: 30px 0;
+}
+.conWarp .tit{
+	color: #666;
+	margin:20px 0 10px 20px;
+}
+.conWarp .tit a{
+	color: #666;
+	padding:0 10px;
+	font-size: 13px;
+	color: #e93b39;
+}
+.conWarp .tit a:hover{
+	text-decoration:underline;
+}
+
+.conWarp .con{
+	width: 900px;
+	height: 390px;
+	cursor: pointer;
+}
+
+
+
+
+
+
+
+
+/*`````````````footer``````````````````*/
+.footer{
+	background: #f6f6f6;
+	width: 100%;
+	border-top: 2px solid white;
+}
+.footerTop{
+	width: 100%;
+    border-bottom: 2px solid #e3e3e3;
+    
+}
+.footerWarp{
+	width: 1200px;
+	margin:0 auto;
+    height: 160px;
+}
+.footerWarp .fot1{
+	float: left;
+	width: 610px;
+	height: 140px;
+    padding-top: 20px;
+	border-right: 1px solid #e3e3e3;
+	border-left: 1px solid white; 
+}
+.footerWarp .fot1 ul{
+    margin-top: 15px;
+	overflow: hidden;
+}
+.footerWarp .fot1 li{
+	overflow: hidden;
+	float: left;
+}
+.footerWarp .fot1 .li1{
+	width: 79px;
+    float: left;
+    height: 110px;
+    position: relative;
+}
+.footerWarp .fot1 .hr{
+    width: 40px;
+    height: 70px;
+    margin-top: 10px;
+    background: url(../images/small_tips_bg01.gif) repeat-x;
+    transition: all .3s ease-in-out;
+    position: relative;
+}
+.footerWarp .fot1 .con1{
+    width: 60px;
+    height: 60px;
+    padding: 9px;
+    background: url(../images/small_tips_bg02.jpg) no-repeat top center;
+    position: relative;
+}
+.footerWarp .fot1 .p1{
+    background: url(../images/small_tips_bg04.png) no-repeat;
+
+    z-index: 2;
+    width: 60px;
+    height: 60px;
+    box-shadow: 0px 3px 3px #b1b1b1;
+    border-radius: 50%;
+    transition: opacity linear .5s,box-shadow ease-in .2s;
+    overflow: hidden;
+    text-indent: -100px;
+    position: absolute;
+}
+.footerWarp .fot1 .p2{
+    background: url(../images/small_tips_bg04.png) no-repeat;
+
+    z-index: 1;
+    opacity: 1;
+    width: 60px;
+    height: 60px;
+    box-shadow: 0px 3px 3px #b1b1b1;
+    border-radius: 50%;
+    transition: opacity linear .5s,box-shadow ease-in .2s;
+    overflow: hidden;
+    text-indent: -100px;
+    position: absolute;
+}
+.footerWarp .fot1 .li1:hover .p1{
+    z-index: 2;
+    box-shadow: 0px 3px 5px #c69c6d;
+}
+.footerWarp .fot1 .li1:hover .p2{
+    z-index: 1;
+    opacity: 1;
+}
+
+.footerWarp .fot1 .li1 .p11{
+    background-position: -1px -1px;
+}
+.footerWarp .fot1 .li1 .p12{
+    background-position: -1px -89px;
+}
+
+.footerWarp .fot1 .li1 .p21{
+    background-position: -91px -1px;
+}
+.footerWarp .fot1 .li1 .p22{
+    background-position: -91px -89px;
+}
+
+
+.footerWarp .fot1 .li1 .p31{
+    background-position: -180px -1px;
+}
+.footerWarp .fot1 .li1 .p32{
+    background-position: -180px -89px;
+}
+
+.footerWarp .fot1 .li1 .p41{
+    background-position: -270px -1px;
+}
+.footerWarp .fot1 .li1 .p42{
+    background-position: -270px -89px;
+}
+
+
+.footerWarp .fot1 .li1 .p51{
+    background-position: -358px -1px;
+}
+.footerWarp .fot1 .li1 .p52{
+    background-position: -358px -89px;
+}
+
+
+.footerWarp .fot1 .con2{
+	text-align: center;
+}
+.footerWarp .fot1 .con2 a{
+	color: #999;
+	text-align: center;
+}
+.footerWarp .fot1 .li1:hover a{
+	color: #c69c6d;
+}
+
+
+.footerWarp .fot2{
+	float: left;
+	width: 240px;
+	height: 140px;
+    padding: 20px 45px 0 45px;
+	border-right: 1px solid #e3e3e3;
+	border-left: 1px solid white; 
+}
+.footerWarp .fot2 img{
+	width: 240px;
+	height: 120px;
+}
+
+.footerWarp .fot3{
+	float: left;
+	width: 195px;
+	height: 140px;
+    padding-top: 20px;
+    padding-left: 55px;
+	border-right: 1px solid #e3e3e3;
+	border-left: 1px solid white; 
+}
+.fot3 li{
+	float: left;
+	padding-right: 40px;
+	padding-bottom: 5px;
+}
+.fot3 li a{
+	color: #666;	
+}
+.fot3 li:hover a{
+	color: #333;	
+}
+.footBot{
+	background: #eaeaea;
+	width: 100%;
+    border-top: 2px solid white;
+}
+
+
+.botWarp{
+	width: 1200px;
+	margin:0 auto;
+    height: 40px;
+    margin: 0 auto;
+    background: #eaeaea;
+}
+.botWarp span{
+	margin-left: 360px;
+	float: left;
+	line-height: 40px;
+}
+.botWarp img{
+	float: left;
+	display: inline-block;
+	line-height: 40px;
+	vertical-align: middle;
+}
+
+
+
+
+
+
+
+
+
+

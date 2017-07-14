@@ -1,0 +1,562 @@
+{
+	"Watch":{
+		"name" : "腕表",
+		"nav"  : {
+			"a" : "百达翡丽",
+			"b" : "劳力士",
+			"c" : "卡地亚",
+			"d" : "欧米伽",
+			"e" : "浪琴",
+			"f" : "万国",
+			"g" : "积家"
+		},
+		"list" : [
+			{
+				"id" : "shop01",
+				"name" : "content",
+				"src" : "watch1.jpg",
+				"remark1" : "优雅女士必备表款",
+				"remark2" : "¥1000-100000的进阶推荐"
+			},
+			{
+				"id" : "shop02",
+				"name" : "OMEGA/欧米伽",
+				"src" : "watch2.jpg",
+				"price" : "限时特惠"
+			},
+			{
+				"id" : "shop03",
+				"name" : "Vacheron Constantin/江诗丹顿",
+				"src" : "watch3.jpg",
+				"price" : "品牌精选"
+			},
+			{
+				"id" : "shop04",
+				"name" : "Jaeger-LeCoultre/积家",
+				"src" : "watch4.jpg",
+				"price" : "品牌精选"
+			},
+			{
+				"id" : "shop05",
+				"name" : "IWC/万国",
+				"src" : "watch5.jpg",
+				"price" : "品牌精选"
+			},
+			{
+				"id" : "shop06",
+				"name" : "PANERAI/沛纳海",
+				"src" : "watch6.jpg",
+				"price" : "品牌精选"
+			}
+		]
+	},
+	"Cloth":{
+		"name" : "服装",
+		"nav"  : {
+			"a" : "BURBERRY",
+			"b" : "HUGO BOSS",
+			"c" : "VERSACE",
+			"d" : "Dolce&Gabbana",
+			"e" : "",
+			"f" : " ",
+			"g" : " "
+		},
+		"list" : [
+			{
+				"id" : "shop01",
+				"name" : "content",
+				"src" : "cloth1.jpg",
+				"remark1" : "女神约会裙装 LOOK",
+				"remark2" : "Dior/Docle&Gabbana/Arm"
+			},
+			{
+				"id" : "shop02",
+				"name" : "GUCCI/古驰",
+				"src" : "cloth2.jpg",
+				"price" : "连衣裙新品"
+			},
+			{
+				"id" : "shop03",
+				"name" : "PRADA/普拉达",
+				"src" : "cloth3.jpg",
+				"price" : "基本美感"
+			},
+			{
+				"id" : "shop04",
+				"name" : "Versace Jeans",
+				"src" : "cloth4.jpg",
+				"price" : "春季上新"
+			},
+			{
+				"id" : "shop05",
+				"name" : "BURBERRY",
+				"src" : "cloth5.jpg",
+				"price" : "经典男装"
+			},
+			{
+				"id" : "shop06",
+				"name" : "Paul&shark/鲨鱼",
+				"src" : "cloth6.jpg",
+				"price" : "品牌专场shoe"
+			}
+		]
+	},
+	"Shoes":{
+		"name" : "鞋靴",
+		"nav"  : {
+			"a" : "Ferragamo",
+			"b" : "PRADA",
+			"c" : "TOD'S",
+			"d" : "Dolce&Gabbana",
+			"e" : "BALLY",
+			"f" : "KENZO",
+			"g" : " "
+		},
+		"list" : [
+			{
+				"id" : "shop01",
+				"name" : "content",
+				"src" : "shoe1.jpg",
+				"remark1" : "女士舒适平底鞋",
+				"remark2" : "Salvatore Ferragamo/Tory "
+			},
+			{
+				"id" : "shop02",
+				"name" : "VALENTINO/ASH",
+				"src" : "shoe2.jpg",
+				"price" : "女式凉鞋上新"
+			},
+			{
+				"id" : "shop03",
+				"name" : "HOGAN/霍根",
+				"src" : "shoe3.jpg",
+				"price" : "品牌专场"
+			},
+			{
+				"id" : "shop04",
+				"name" : "Jimmy Choo/周仰杰",
+				"src" : "shoe4.jpg",
+				"price" : "2017上新专场"
+			},
+			{
+				"id" : "shop05",
+				"name" : "GUCCI/GUCCI",
+				"src" : "shoe5.jpg",
+				"price" : "上新精选"
+			},
+			{
+				"id" : "shop06",
+				"name" : "Salvatore Ferragamo",
+				"src" : "shoe6.jpg",
+				"price" : "优雅女鞋"
+			}
+		]
+	},
+	"Accessories":{
+		"name" : "配饰",
+		"nav"  : {
+			"a" : "Ray-Ban",
+			"b" : "FERRAGANMO",
+			"c" : "GUCCI",
+			"d" : "BURBERRY",
+			"e" : "VERSACE",
+			"f" : "Hermes",
+			"g" : " "
+		},
+		"list" : [
+			{
+				"id" : "shop01",
+				"name" : "content",
+				"src" : "acc1.jpg",
+				"remark1" : "Montblanc新品上架",
+				"remark2" : "精致内敛的大师风范"
+			},
+			{
+				"id" : "shop02",
+				"name" : "PRADA/普拉达",
+				"src" : "acc2.jpg",
+				"price" : "太阳镜"
+			},
+			{
+				"id" : "shop03",
+				"name" : "MARJA KURKI/玛丽亚古琦",
+				"src" : "acc3.jpg",
+				"price" : "17新款精选"
+			},
+			{
+				"id" : "shop04",
+				"name" : "Fulton/富尔顿",
+				"src" : "acc4.jpg",
+				"price" : "雨伞精选"
+			},
+			{
+				"id" : "shop05",
+				"name" : "Salvatore/Ferragamo",
+				"src" : "acc5.jpg",
+				"price" : "腰带精选"
+			},
+			{
+				"id" : "shop06",
+				"name" : "Givenchy/纪梵希",
+				"src" : "acc6.jpg",
+				"price" : "丝巾精选"
+			}
+		]
+	},
+	"Jeweltry":{
+		"name" : "首饰",
+		"nav"  : {
+			"a" : "HERMES",
+			"b" : "CARTIER",
+			"c" : "Bvlgari",
+			"d" : "CHANEL",
+			"e" : "Tiffany&Co.",
+			"f" : "Swarovski",
+			"g" : " "
+		},
+		"list" : [
+			{
+				"id" : "shop01",
+				"name" : "content",
+				"src" : "jew1.jpg",
+				"remark1" : "惹眼的Logo耳饰新元素",
+				"remark2" : "CHANEL/Dior"
+			},
+			{
+				"id" : "shop02",
+				"name" : "CARTIER/卡地亚",
+				"src" : "jew2.jpg",
+				"price" : "经典设计"
+			},
+			{
+				"id" : "shop03",
+				"name" : "Dior/迪奥",
+				"src" : "jew3.jpg",
+				"price" : "华丽优雅"
+			},
+			{
+				"id" : "shop04",
+				"name" : "HERMES/爱马仕",
+				"src" : "jew4.jpg",
+				"price" : "至精至美"
+			},
+			{
+				"id" : "shop05",
+				"name" : "Tiffany&Co./蒂芙尼",
+				"src" : "jew5.jpg",
+				"price" : "璀璨闪烁"
+			},
+			{
+				"id" : "shop06",
+				"name" : "RUANS/阮氏",
+				"src" : "jew6.jpg",
+				"price" : "大气国礼"
+			}
+		]
+	},
+	"Life":{
+		"name" : "家居生活",
+		"nav"  : {
+			"a" : "ZIPPO",
+			"b" : "ZWILLING",
+			"c" : "OrangeLife",
+			"d" : "S.T.DUPONT",
+			"e" : "pgilips",
+			"f" : "Downia",
+			"g" : " "
+		},
+		"list" : [
+			{
+				"id" : "shop01",
+				"name" : "content",
+				"src" : "life1.jpg",
+				"remark1" : "尖叫×520",
+				"remark2" : "给她(他)幸福,"
+			},
+			{
+				"id" : "shop02",
+				"name" : "Chirsty",
+				"src" : "life2.jpg",
+				"price" : "高端寝具"
+			},
+			{
+				"id" : "shPannasonic/松下",
+				"src" : "life3.jpg",
+				"price" : "美容仪"
+			},
+			{
+				"id" : "shop04",
+				"name" : "Kinto/利快",
+				"src" : "life4.jpg",
+				"price" : "高档茶具"
+			},
+			{
+				"id" : "shop05",
+				"name" : "ZIPPO/芝宝",
+				"src" : "life5.jpg",
+				"price" : "精品打火机"
+			},
+			{
+				"id" : "shop06",
+				"name" : "LAVA/LAVA",
+				"src" : "life6.jpg",
+				"price" : "厨具专场"
+			}
+		]
+	},
+	"Outdoor":{
+		"name" : "户外运动",
+		"nav"  : {
+			"a" : "ARCTERYX",
+			"b" : "MARMOT",
+			"c" : "SALOMON",
+			"d" : "Skora",
+			"e" : "Osprey",
+			"f" : "The North Face",
+			"g" : " "
+		},
+		"list" : [
+			{
+				"id" : "shop01",
+				"name" : "content",
+				"src" : "out1.jpg",
+				"remark1" : "户外风衣全场7折起",
+				"remark2" : "Arc'teryx/The North Face"
+			},
+			{
+				"id" : "shop02",
+				"name" : "ADIDAS/阿迪达斯",
+				"src" : "out2.jpg",
+				"price" : "运动鞋专场"
+			},
+			{
+				"id" : "shop03",
+				"name" : "ARCTERYX/始祖鸟",
+				"src" : "out3.jpg",
+				"price" : "运动T恤专场"
+			},
+			{
+				"id" : "shop04",
+				"name" : "THE NORTH FACE",
+				"src" : "out4.jpg",
+				"price" : "运动外套专场"
+			},
+			{
+				"id" : "shop05",
+				"name" : "Burton",
+				"src" : "out5.jpg",
+				"price" : "运动背包专场"
+			},
+			{
+				"id" : "shop06",
+				"name" : "VICTORINOX/维氏",
+				"src" : "out6.jpg",
+				"price" : "运动装备专场"
+			}
+		]
+	},
+	"Sexy":{
+		"name" : "美妆成人",
+		"nav"  : {
+			"a" : "Annasui",
+			"b" : "Max Factor",
+			"c" : "LEADERS",
+			"d" : "SHISERDO",
+			"e" : "LELO",
+			"f" : "Charmozone",
+			"g" : "THAYERS"
+		},
+		"list" : [
+			{
+				"id" : "shop01",
+				"name" : "content",
+				"src" : "sex1.jpg",
+				"remark1" : "防晒宜早不宜晚",
+				"remark2" : "抗紫外线护肤精选 全场3折"
+			},
+			{
+				"id" : "shop02",
+				"name" : "CHANEL/香奈儿",
+				"src" : "sex2.jpg",
+				"price" : "品牌特惠"
+			},
+			{
+				"id" : "shop03",
+				"name" : "YSL",
+				"src" : "sex3.jpg",
+				"price" : "特惠彩妆"
+			},
+			{
+				"id" : "shop04",
+				"name" : "Whoo/后",
+				"src" : "sex4.jpg",
+				"price" : "韩系护肤"
+			},
+			{
+				"id" : "shop05",
+				"name" : "Guerlain/娇兰",
+				"src" : "sex5.jpg",
+				"price" : "免税直邮"
+			},
+			{
+				"id" : "shop06",
+				"name" : "ORIGINS/悦木之缘",
+				"src" : "sex6.jpg",
+				"price" : "初夏新品"
+			}
+		]
+	},
+	"Mom":{
+		"name" : "母婴玩具",
+		"nav"  : {
+			"a" : "NUK",
+			"b" : "欧洲宝贝",
+			"c" : "露安适",
+			"d" : "Attipas/阿弟葩",
+			"e" : "littlelife",
+			"f" : "Hape",
+			"g" : " "
+		},
+		"list" : [
+			{
+				"id" : "shop01",
+				"name" : "content",
+				"src" : "mom1.jpg",
+				"remark1" : "Kenzo Burberry",
+				"remark2" : "大牌童装千元封顶"
+			},
+			{
+				"id" : "shop02",
+				"name" : "Hanakimi/Hanakimi",
+				"src" : "mom2.jpg",
+				"price" : "为公主而生"
+			},
+			{
+				"id" : "shop03",
+				"name" : "DERECHTE SCOUT",
+				"src" : "mom3.jpg",
+				"price" : "安全背包"
+			},
+			{
+				"id" : "shop04",
+				"name" : "爱多康",
+				"src" : "mom4.jpg",
+				"price" : "为宝宝洗护"
+			},
+			{
+				"id" : "shop05",
+				"name" : "DAVID CHARLES",
+				"src" : "mom5.jpg",
+				"price" : "公主裙新款"
+			},
+			{
+				"id" : "shop06",
+				"name" : "Abbe Geddes",
+				"src" : "mom6.jpg",
+				"price" : "体贴呵护"
+			}
+		]
+	},
+	"Oriental":{
+		"name" : "中国精品",
+		"nav"  : {
+			"a" : "内联升",
+			"b" : "上久楷",
+			"c" : "云皂",
+			"d" : "看见民生",
+			"e" : "周市龙泉剑",
+			"f" : "金色度母",
+			"g" : " "
+		},
+		"list" : [
+			{
+				"id" : "shop01",
+				"name" : "content",
+				"src" : "ori1.jpg",
+				"remark1" : "五月五过端午 佩香囊果胶",
+				"remark2" : "粽子黄酒香囊沉香应有尽有"
+			},
+			{
+				"id" : "shop02",
+				"name" : "MWZ/慢物质",
+				"src" : "ori2.jpg",
+				"price" : "品牌精品"
+			},
+			{
+				"id" : "shop03",
+				"name" : "XBRT/朱炳仁铜",
+				"src" : "ori3.jpg",
+				"price" : "品牌精选"
+			},
+			{
+				"id" : "shop04",
+				"name" : "songpinhao/宋聘号",
+				"src" : "ori4.jpg",
+				"price" : "品牌精选"
+			},
+			{
+				"id" : "shop05",
+				"name" : "EY/意外设计",
+				"src" : "ori5.jpg",
+				"price" : "品牌精选"
+			},
+			{
+				"id" : "shop06",
+				"name" : "chenghuai/澄怀",
+				"src" : "ori6.jpg",
+				"price" : "品牌精选"
+			}
+		]
+	},
+	"Cars":{
+		"name" : "豪车",
+		"nav"  : {
+			"a" : "新车",
+			"b" : "二手车",
+			"c" : "平行进口车",
+			"d" : "飞机游艇",
+			"e" : "无人机",
+			"f" : "豪车生活",
+			"g" : "赛道服饰"
+		},
+		"list" : [
+			{
+				"id" : "shop01",
+				"name" : "content",
+				"src" : "car1.jpg",
+				"remark1" : "百年玛莎拉蒂",
+				"remark2" : "当优雅融入你的生活"
+			},
+			{
+				"id" : "shop02",
+				"name" : "TIPON/汉朗",
+				"src" : "car2.jpg",
+				"price" : "车载净化器"
+			},
+			{
+				"id" : "shop03",
+				"name" : "宝马专场",
+				"src" : "car3.jpg",
+				"price" : "品牌精选"
+			},
+			{
+				"id" : "shop04",
+				"name" : "阿斯顿马丁专场",
+				"src" : "car4.jpg",
+				"price" : "品牌精选"
+			},
+			{
+				"id" : "shop05",
+				"name" : "豪车精品专场",
+				"src" : "car5.jpg",
+				"price" : "品牌精选"
+			},
+			{
+				"id" : "shop06",
+				"name" : "捷豹专场",
+				"src" : "car6.jpg",
+				"price" : "品牌精选"
+			}
+		]
+	}
+}
